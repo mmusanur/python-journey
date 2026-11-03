@@ -1,0 +1,10 @@
+name = input("Enter your name: ")
+age = int(input("Enter your age: "))
+District =input("Enter your distric name: ") 
+programming_language = input("Enter your favourite programming language: ")
+
+print("\n ======My Information=====")
+print("Name :", name)
+print("Age :", age)
+print("District:", District)
+print("Programming-Language :", programming_language)
